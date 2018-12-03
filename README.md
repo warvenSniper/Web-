@@ -5,6 +5,10 @@
 ### 性能
 1. Chrome [Lighthouse](https://github.com/GoogleChrome/lighthouse) and [Calibre](https://calibreapp.com/)（封装的Lighthouse能够设置cookie）
 2. Chrome Perfomance
+### 工程
+#### 构建
+1. [Tree-shaking](https://zhuanlan.zhihu.com/p/32831172)
+2. [rollup](https://rollupjs.cn/)
 
 
 # Cloud
