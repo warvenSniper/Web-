@@ -11,3 +11,9 @@
 ### Cloud Native
 - [CNCF](https://www.cncf.io/)
 - [Service Mesh](https://jimmysong.io/posts/what-is-a-service-mesh/)
+
+# 分布式
+### 日志
+#### 请求跟踪
+1. 调用链：[zipkin](https://zipkin.io/)
+
