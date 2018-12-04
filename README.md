@@ -9,6 +9,7 @@
 #### 优化手段
 1. [带你玩转prefetch, preload, dns-prefetch，defer和async](https://segmentfault.com/a/1190000011577248)
 2. [preload vs prefetch](https://www.w3cplus.com/performance/reloading/preload-prefetch-and-priorities-in-chrome.html)
+3. [LoadCSS](https://github.com/filamentgroup/loadCSS)
 ### 工程
 #### 构建
 1. [Tree-shaking](https://zhuanlan.zhihu.com/p/32831172)
