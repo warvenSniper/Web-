@@ -15,6 +15,9 @@
 1. [Tree-shaking](https://zhuanlan.zhihu.com/p/32831172)
 2. [rollup](https://rollupjs.cn/)
 
+### WEB安全
+#### xxs
+1. [integrity=文件指纹](https://www.zhoulujun.cn/html/webfront/ECMAScript/js6/2018_0521_8115.html)
 
 # Cloud
 ### Cloud Native
