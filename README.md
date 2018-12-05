@@ -31,3 +31,12 @@
 #### 请求跟踪
 1. 调用链：[zipkin](https://zipkin.io/)
 
+# 微服务
+### 服务编排
+1. [conductor](https://github.com/Netflix/conductor/)
+
+# 工程化
+### 监控告警
+1. [zabbix](https://www.zabbix.com/)
+### 安装部署
+1. [ansible](https://www.ansible.com/)
