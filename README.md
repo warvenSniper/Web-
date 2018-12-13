@@ -25,6 +25,7 @@
 #### 服务网格[Service Mesh](https://jimmysong.io/posts/what-is-a-service-mesh/)
 1. 服务网格实现：[Istio](https://istio.io/)
 2. Sidecar实现：[Envoy](https://www.envoyproxy.io/)
+3. [蚂蚁金服实践分享](https://www.infoq.cn/article/IhCKjgEDOO-YQAAPxesh)
 
 # 分布式
 ### 日志
