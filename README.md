@@ -41,3 +41,9 @@
 1. [zabbix](https://www.zabbix.com/)
 ### 安装部署
 1. [ansible](https://www.ansible.com/)
+
+# 桌面引用
+## PC
+1. [Electron](https://electronjs.org/)
+## Mobile
+2. React Native
