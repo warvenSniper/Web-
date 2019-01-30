@@ -20,6 +20,9 @@
 #### xxs
 1. [integrity=文件指纹](https://www.zhoulujun.cn/html/webfront/ECMAScript/js6/2018_0521_8115.html)
 
+### 异常监测
+1. [sentry](https://github.com/getsentry/sentry)
+
 # Cloud
 ### Cloud Native
 #### [CNCF](https://www.cncf.io/)
