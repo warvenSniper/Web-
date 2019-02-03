@@ -11,6 +11,7 @@
 2. [preload vs prefetch](https://www.w3cplus.com/performance/reloading/preload-prefetch-and-priorities-in-chrome.html)
 3. [LoadCSS](https://github.com/filamentgroup/loadCSS)
 4. [quicklink](https://github.com/GoogleChromeLabs/quicklink)
+5. [服务端渲染React：Next.js](http://nextjs.frontendx.cn)
 ### 工程
 #### 构建
 1. [Tree-shaking](https://zhuanlan.zhihu.com/p/32831172)
