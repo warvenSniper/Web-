@@ -1,4 +1,10 @@
 # Front-end
+### 自动化测试
+- E2E: [Selenium](https://www.seleniumhq.org/)
+- 单元测试：[Jasmine](https://jasmine.github.io/)、[Karma](https://karma-runner.github.io/latest/index.html)、[Mocha](https://mochajs.org/)、[Chai](https://www.chaijs.com/)
+- 全能新星：[cypress](https://www.cypress.io/)
+### 微前端
+- [single-spa](https://single-spa.js.org/)
 ### 编码规范
 #### CSS规范
 - [BEM规范](http://getbem.com/)
