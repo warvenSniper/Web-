@@ -42,6 +42,7 @@
 ### 日志
 #### 请求跟踪
 1. 调用链：[zipkin](https://zipkin.io/)
+2. APM: [skywalking](https://github.com/apache/skywalking)
 
 # 微服务
 ### 服务编排
