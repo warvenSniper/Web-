@@ -22,6 +22,9 @@
 #### 构建
 1. [Tree-shaking](https://zhuanlan.zhihu.com/p/32831172)
 2. [rollup](https://rollupjs.cn/)
+#### 代码质量扫描
+1. [SonarQube](https://www.sonarqube.org/)
+
 
 ### WEB安全
 #### xxs
