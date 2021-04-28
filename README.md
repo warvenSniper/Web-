@@ -5,6 +5,7 @@
 - 全能新星：[cypress](https://www.cypress.io/)
 ### 微前端
 - [single-spa](https://single-spa.js.org/)
+- [qiankun]()
 ### 编码规范
 #### CSS规范
 - [BEM规范](http://getbem.com/)
@@ -19,6 +20,9 @@
 4. [quicklink](https://github.com/GoogleChromeLabs/quicklink)
 5. [服务端渲染React：Next.js](http://nextjs.frontendx.cn)
 ### 工程
+#### CICD
+1. [jekeins]()
+2. [drone](https://github.com/drone/drone)
 #### 构建
 1. [Tree-shaking](https://zhuanlan.zhihu.com/p/32831172)
 2. [rollup](https://rollupjs.cn/)
@@ -52,6 +56,9 @@
 1. [conductor](https://github.com/Netflix/conductor/)
 
 # 工程化
+### CICD
+1. je
+2. 
 ### 监控告警
 1. [zabbix](https://www.zabbix.com/)
 ### 安装部署
